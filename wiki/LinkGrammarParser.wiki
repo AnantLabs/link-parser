@@ -1,0 +1,7 @@
+#Link Grammar Parser - Updated
+
+The Link Grammar Parser http://www.link.cs.cmu.edu/link/ is a strong, capable English language parser. The current project updates this parser with assorted minor fixes and enhancements. These include:
+
+  * Dictionary updates
+  * JNI bindings
+  * Buglet fixes
