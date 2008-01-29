@@ -12,7 +12,7 @@ Currently, the source code and the latest source code is at
 http://www.abisource.com/projects/link-grammar/
 
 Source fixes include:
-  * Use of automake/autoconf/confugre build system, to make building easier.
+  * Use of automake/autoconf/configure build system, to make building easier.
   * Move of dictionaries to en directory, enabling inclusion of other languages.
   * Placeholders for entities, allowing entity detection software to be used.
 
@@ -23,4 +23,3 @@ Dictionary fixes include:
   * "I am pooped" as synonym for "I am tired"
   * "Mother likes her." "Mommy loves me." and related.
   * "Go play ball." "Go take a walk." "You and Rover go play with the ball."
-
